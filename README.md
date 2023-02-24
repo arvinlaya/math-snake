@@ -1,4 +1,4 @@
-# Optical Clinic Management System
+# Math Snake
 
 ***Disclaimer:** Some functionality are not available. **Clone at your own risk!***
 
