@@ -1,10 +1,6 @@
 # Math Snake
 
-***Disclaimer:** Some functionality are not available. **Clone at your own risk!***
-
-This is our final project on Software Engineering 2 subject.
-
-**Technologies:** HTML, CSS, JS, Bootstrap, Express JS, PHP, Node JS, MongoDB-NO SQL
+**Technologies:** C++, SDL2
 
 # © Copyright
 **Frontend Developers**
