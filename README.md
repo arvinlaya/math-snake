@@ -14,4 +14,4 @@
 
 **Backend Developers**
 
-- **Arvin Laya**, Technological Univeristy of the Philippines Manila (arvinlaya283@gmail.com)
+- **Arvin Laya**, Technological Univeristy of the Philippines Manila (arvinsiason.laya@gmail.com)
