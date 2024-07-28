@@ -1,6 +1,6 @@
 # Math Snake
 
-**Technologies:** C, SDL2
+**Technologies:** C++, SDL2
 
 # © Copyright
 **Frontend Developers**
